@@ -1,2 +1,0 @@
-correr boilerplate flask:
-python run.py
